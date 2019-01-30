@@ -8,6 +8,7 @@ namespace ForkStart_Group9
         {
             Console.WriteLine("Hello World from the instructor!");
 
+            Console.WriteLine("Hi from Yagna!!");
             // team member A's content goes here
 
             // team member B's content goes here
